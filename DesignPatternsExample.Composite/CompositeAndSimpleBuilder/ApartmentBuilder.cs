@@ -1,4 +1,4 @@
-﻿namespace DesignPatternsExample.Composite.CompositeAndStepBuilder;
+﻿namespace DesignPatternsExample.Composite.CompositeAndSimpleBuilder;
 
 public class ApartmentBuilder
 {

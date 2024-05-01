@@ -1,4 +1,4 @@
-using DesignPatternsExample.Composite.CompositeAndStepBuilder;
+using DesignPatternsExample.Composite.CompositeAndSimpleBuilder;
 using DesignPatternsExample.Composite.Sample1;
 
 namespace DesignPatternsExample.UnitTest
