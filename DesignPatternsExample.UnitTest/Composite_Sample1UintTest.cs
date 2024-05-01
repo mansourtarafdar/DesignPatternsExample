@@ -2,7 +2,7 @@ using DesignPatternsExample.Composite.Sample1;
 
 namespace DesignPatternsExample.UnitTest
 {
-    public class CompositeUintTest
+    public class Composite_Sample1UintTest
     {
         [Fact]
         public void WhenIHavePackage_PackageSize_ShouldBeSumOfChildrenPackages()
