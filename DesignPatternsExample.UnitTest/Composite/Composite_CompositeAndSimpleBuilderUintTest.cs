@@ -1,7 +1,7 @@
 using DesignPatternsExample.Composite.CompositeAndSimpleBuilder;
 using DesignPatternsExample.Composite.Sample1;
 
-namespace DesignPatternsExample.UnitTest
+namespace DesignPatternsExample.UnitTest.Composite
 {
     public class Composite_CompositeAndSimpleBuilderUintTest
     {
@@ -47,7 +47,7 @@ namespace DesignPatternsExample.UnitTest
                 .AddBuilding(complex2)
                 .Build();
 
-            Assert.Equal(complex1.Capacity(),59);
+            Assert.Equal(complex1.Capacity(), 59);
         }
 
         [Fact]
